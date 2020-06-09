@@ -17,15 +17,15 @@ Ce script est le résultat des explications fournies dans la vidéo : XXXX
 
 GB:
 Possible evolutions:
-> Allow the download of NodeJS version directly from the script (currently done manualy)
-> Better exception management
+* Allow the download of NodeJS version directly from the script (currently done manualy)
+* Better exception management
 ...
 Do not hesitate to comment this script in order to improve it.
 
 FR:
 Evolutions possibles:
-> Téléchargements directement via le script d'une version de NodeJS pour limiter les actions manuelles
-> Meilleure gestion des erreurs
+* Téléchargements directement via le script d'une version de NodeJS pour limiter les actions manuelles
+* Meilleure gestion des erreurs
 ...
 N'hésitez pas à en proposer dans les commentaires pour que je puisse faire évoluer ce script.
 
